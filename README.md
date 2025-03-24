@@ -1,46 +1,56 @@
 # habit-tracker
-This mobile application helps users break harmful habits by tracking their progress and calculating the money saved by avoiding these habits.
+This intuitive mobile application is designed to help users eliminate harmful habits by monitoring their progress and showcasing the financial benefits of making positive changes.
 
-Features:
+✨ Key Features:
 
-Track and Manage Habits: Easily add habits and their associated costs, and log your progress daily.
+✅ Track and Manage Habits
 
-Automatic Savings Calculation: Instantly calculate the total money saved by avoiding harmful habits.
+Easily add habits and their associated daily costs.
 
-Detailed Statistics: View graphical representations of your savings progress:
+Log your daily progress effortlessly.
 
-Daily savings
+💰 Automatic Savings Calculation
 
-Weekly savings
+Instantly see how much you've saved by avoiding harmful habits.
 
-Monthly savings
+📈 Detailed Visual Statistics
 
-Consolidation of Identical Habits: Automatically sums savings from identical or repeated habits for clearer analysis.
+Beautifully presented graphical summaries:
 
-Technologies Used:
+📅 Daily Savings
+
+📆 Weekly Savings
+
+📊 Monthly Savings
+
+🔗 Consolidation of Identical Habits
+
+Clearly view total savings from similar habits, simplifying your progress analysis.
+
+🛠️ Technologies Used:
 
 React Native
 
 Expo
 
-Victory Native / Recharts for data visualization
+Victory Native / Recharts (for clear and appealing data visualization)
 
-Ideal Use Cases:
+🎯 Ideal for:
 
-Individuals aiming to quit smoking, reduce alcohol consumption, or stop unnecessary spending.
+Individuals working on quitting smoking, reducing alcohol consumption, or cutting back unnecessary expenses.
 
-Users who want to visually monitor financial savings from habit improvements.
+Anyone who values seeing tangible financial progress in their journey towards healthier habits.
 
-Benefits:
+🌟 Benefits:
 
-Provides motivation through visible financial benefits.
+Stay motivated by visually seeing the money you're saving.
 
-Helps build and maintain healthier lifestyle habits.
+Develop and maintain healthier, financially rewarding lifestyle changes.
 
-Contact Information:
+📬 Get in Touch:
 
 Email: stoogess07@gmail.com
 
 Telegram: +380962339075
 
-Feel free to contact me if you have further questions or need similar app development!
+Feel free to reach out with questions or to discuss your next app idea!
