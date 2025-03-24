@@ -1,0 +1,13 @@
+{
+  "home": {
+    "title": "Main",
+    "saved": "Saved",
+    "addHabit": "Add Habit"
+  },
+  "period": {
+    "today": "Today",
+    "week": "Week",
+    "month": "Month"
+  }
+}
+
